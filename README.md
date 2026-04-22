@@ -19,7 +19,7 @@ This project is intended to be a showcase of my work in this class, and may be u
 
 Use this section to explain the structure of your repo. This should help visitors quickly figure out where they should look to find certain elements. Further, you can use this space to highlight and briefly explain important/key files in the repo.
 
-In this repo, there are files given in the template, including an images foler, and optional_files folder, and the template file. There is also the quarto markdown file for the project, and pdf for the project, and the README file.
+In this repo, there are files given in the template, including an images foler, and optional_files folder, and the template file. There is also the quarto markdown file (Q M D) for the project, and P D F for the project, and the README file.
 
 ## Authors
 
