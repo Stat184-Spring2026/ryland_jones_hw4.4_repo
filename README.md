@@ -1,28 +1,26 @@
-# Project Title
+# Homework 4.4
 
-Write a 1-2 sentences that quickly and clearly convey what your repo is for.
+This repo is to complete the H W #4.4 assignment for Stat 184. It contains the project that was worked on in H W #4.3.
 
 ## Overview
 
-Expand on those introductory sentences with a brief but informative description of your project's purpose and goals. This section should help visitors decide whether they should dig deeper into your repo/project.
-
-### Interesting Insight (Optional)
-
-This is optional but highly recommended. You'll include one interesting insight from your project as part of the README. This insight is most effective when you include a visual. Keep in mind that this visual must be included as an image file (e.g., JPG, PNG, etc.). You can export plots created with `{ggplot2}` by using the function `ggsave`.
+The purpose of this project is to share my work in this class, as the project shown is an accumlation of most, if not all, of the topics that we have learned in this class.
 
 ## Data Sources and Acknowledgements
 
-Be sure to list where you got any data used within the project. Be sure to acknowledge any one whose work or elements you're drawing upon.
+The project includes a section on busiest airports, where I used data from Wikipedia in the page [List of busiest airports by passenger traffic](https://en.wikipedia.org/wiki/List_of_busiest_airports_by_passenger_traffic)
+It also includes using data of calcium levels of women, which was given by the professor.
 
 ## Current Plan
 
-Provide some information about what you intend to doe with the project. You can additionally refer the visitor to your detailed plan document.
+This project is intended to be a showcase of my work in this class, and may be updated for any future projects.
 
 ## Repo Structure
 
 Use this section to explain the structure of your repo. This should help visitors quickly figure out where they should look to find certain elements. Further, you can use this space to highlight and briefly explain important/key files in the repo.
 
+In this repo, there are files given in the template, including an images foler, and optional_files folder, and the template file. There is also the quarto markdown file for the project, and pdf for the project, and the README file.
 
 ## Authors
 
-Give information about who are the authors of the project and how people can get in touch if they have questions.
+Any questions should be directed to [Ryland Jones](mailto:jones.ryland2492@gmail.com)
