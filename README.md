@@ -15,11 +15,13 @@ It also includes using data of calcium levels of women, which was given by the p
 
 This project is intended to be a showcase of my work in this class, and may be updated for any future projects.
 
+With H W #4.3, my plan was to create a quarto document showing my work for the busiest airports table/plot along with the monte carlo simulation from the previous assignement. It also included the plot that Claude, a generative A I, created created from data of women and their calcium levels, and compared that to the graph given in the assignment, as well as a self reflection from the class. I plan to let this project rest as I feel it is a good representation of the skills I learned in this class.
+
 ## Repo Structure
 
 Use this section to explain the structure of your repo. This should help visitors quickly figure out where they should look to find certain elements. Further, you can use this space to highlight and briefly explain important/key files in the repo.
 
-In this repo, there are files given in the template, including an images foler, and optional_files folder, and the template file. There is also the quarto markdown file (Q M D) for the project, and P D F for the project, and the README file.
+In this repo, there are files given in the template, including an images foler, and optional_files folder, and the template file. There is also the quarto markdown document (Q M D) for the project, and P D F for the project, and the README file.
 
 ## Authors
 
